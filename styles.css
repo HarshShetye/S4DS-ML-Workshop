@@ -1,0 +1,23 @@
+h1 {
+    margin: 10px;
+}
+
+.result {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.result-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+.result-img .input-img {
+    width: 12vw;
+}
+
+.result p {
+    font-size: 2em;
+}
